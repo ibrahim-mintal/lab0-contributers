@@ -1,1 +1,5 @@
-My name is Alaa Sherif
+Name: Alaa Sherif
+Role: DevOps Engineer
+Skills: CI/CD Pipelines, Ansible, Docker, Jenkins, Git/GitHub, Linux, Cloud Platforms
+Notes: This task demonstrates adding my personal contribution to the lab repository.
+
